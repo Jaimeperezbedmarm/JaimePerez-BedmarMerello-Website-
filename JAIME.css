@@ -30,7 +30,7 @@ body {
 p{
     color: black;
     font-family: "sans-serif";
-    font-size: 25px;
+    font-size: 20px;
     text-align: left;
 }
 .sidenav {
@@ -60,7 +60,7 @@ p{
 .content {
     margin-left: 200px;
     padding-left: 100px;
-    width: 60%;
+    width: 80%;
 }
 h1{
     font-family: "Bebas Neue";
