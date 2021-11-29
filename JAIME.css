@@ -1,0 +1,102 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Garamond, sans-serif, serif;
+    background-color: lightgray;
+}
+
+.header {
+    padding: 30px;
+    text-align: center;
+    font-size: 40px;
+    background-color: gray;
+    color: black;
+    font-family: "serif";
+}
+
+.footer {
+    padding: 10px;
+    text-align: center;
+    background-color: dimgray;
+    font-family: Garamond;
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:40px;
+}
+p{
+    color: black;
+    font-family: "sans-serif";
+    font-size: 25px;
+    text-align: left;
+}
+.sidenav {
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+}
+
+
+.sidenav a {
+    color: white;
+    padding: 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.sidenav a:hover {
+    background-color:beige
+    color:#111
+}
+
+.content {
+    margin-left: 200px;
+    padding-left: 100px;
+    width: 80%;
+}
+h1{
+    font-family: "Bebas Neue";
+    font-size: 50px;
+    text-align: center;
+    color: rgb(157, 173, 167);
+}
+img {
+    align-content: right;
+}
+#hp  {
+    float: right;
+    margin: 0 0 0 15px;
+}
+ol{
+    color: rgb(0, 0, 0);
+    font-family: "Hiragino Sans";
+    font-size: 20px;
+}
+ul{
+    color: rgb(0, 0, 0);
+}
+h1{
+    color: black;
+    font-size: 20px;
+    font-family: "sans-serif";
+    text-align: left;
+}
+h2{
+    color: white;
+    font-size: 60px;
+    font-family: "Bebas Neue";
+    text-align: center;
+}
+h3{
+    color: gray;
+    font-size: 25px;
+    font-family: "Bebas Neue";
+    text-align: center;
