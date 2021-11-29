@@ -91,7 +91,7 @@ h1{
     text-align: center;
 }
 h2{
-    color: white;
+    color: lightslategray
     font-size: 60px;
     font-family: "Bebas Neue";
     text-align: center;
@@ -107,4 +107,10 @@ h3{
     font-size 40px;
     font-family: "Bebas Neue";
     text-align: left;
+ }
+ h4{
+    color: blanchedalmond
+    font-size 80px;
+    font-family: "Bebas Neue";
+    text-align: center;
  }
