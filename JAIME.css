@@ -85,25 +85,25 @@ ul{
     color: rgb(0, 0, 0);
 }
 h1{
-    color: beige
+    color: bisque;
     font-size: 30px;
     font-family: "sans-serif";
     text-align: center;
 }
 h2{
-    color: black
+    color: black;
     font-size: 60px;
     font-family: "Bebas Neue";
     text-align: center;
 }
 h3{
-    color: black
+    color: black;
     font-size 40px;
     font-family: "Bebas Neue";
     text-align: center;
 }
  h4{
-    color: black
+    color: black;
     font-size 40px;
     font-family: "Bebas Neue";
     text-align: left;
