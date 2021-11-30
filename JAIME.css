@@ -30,7 +30,7 @@ body {
 p{
     color: black;
     font-family: "sans-serif";
-    font-size: 30px;
+    font-size: 20px;
     text-align: left;
     text-decoration: blanchedalmond;
     text-decoration-style: wavy;
@@ -65,7 +65,7 @@ p{
 }
 h1{
     font-family: "Bebas Neue";
-    font-size: 50px;
+    font-size: 25px;
     text-align: center;
     color: rgb(157, 173, 167);
 }
@@ -86,25 +86,25 @@ ul{
 }
 h1{
     color: white;
-    font-size: 60px;
+    font-size: 40px;
     font-family: "sans-serif";
     text-align: center;
 }
 h2{
     color: black;
-    font-size: 40px;
+    font-size: 25px;
     font-family: "Bebas Neue";
     text-align: center;
 }
 h3{
     color: black;
-    font-size 40px;
+    font-size 25px;
     font-family: "Bebas Neue";
     text-align: center;
 }
  h4{
     color: black;
-    font-size 40px;
+    font-size 25px;
     font-family: "Bebas Neue";
     text-align: left;
  }
